@@ -42,3 +42,4 @@ do
 done < $1
 
 echo "Created script"
+echo "--------------"
