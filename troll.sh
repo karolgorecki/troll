@@ -41,3 +41,4 @@ do
     git commit -m "Added new line: $line"
 done < $1
 
+echo "Created script"
