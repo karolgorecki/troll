@@ -40,3 +40,4 @@ do
     git add troll.sh
     git commit -m "Added new line: $line"
 done < $1
+
