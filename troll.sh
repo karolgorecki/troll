@@ -37,3 +37,4 @@ do
     echo "$line" >> troll.sh
 
     # create git commits
+    git add troll.sh
