@@ -36,3 +36,4 @@ do
     # feed the troll
     echo "$line" >> troll.sh
 
+    # create git commits
