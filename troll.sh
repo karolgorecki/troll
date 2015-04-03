@@ -34,3 +34,4 @@ do
     echo "Current date: $DATE_OK"
 
     # feed the troll
+    echo "$line" >> troll.sh
