@@ -33,3 +33,4 @@ do
     echo "Iteration number: $COUNT"
     echo "Current date: $DATE_OK"
 
+    # feed the troll
