@@ -31,3 +31,4 @@ do
 
     # just debug info
     echo "Iteration number: $COUNT"
+    echo "Current date: $DATE_OK"
