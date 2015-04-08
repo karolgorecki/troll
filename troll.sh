@@ -29,3 +29,4 @@ do
     # set the date
     date --set="$DATE_OK"
 
+    # just debug info
