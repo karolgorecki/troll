@@ -27,3 +27,4 @@ do
     DATE_OK=`date --date="@$DATE_NOW" +"%F %T"`
 
     # set the date
+    date --set="$DATE_OK"
