@@ -26,3 +26,4 @@ do
     DATE_NOW=`expr $DATE_NOW - $SECONDS_A_DAY`
     DATE_OK=`date --date="@$DATE_NOW" +"%F %T"`
 
+    # set the date
