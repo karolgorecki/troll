@@ -23,3 +23,4 @@ do
     # get back to the future
     DATE_NOW=$(date +%s)
     SECONDS_A_DAY=86400
+    DATE_NOW=`expr $DATE_NOW - $SECONDS_A_DAY`
