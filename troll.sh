@@ -21,3 +21,4 @@ do
     name=$line
 
     # get back to the future
+    DATE_NOW=$(date +%s)
