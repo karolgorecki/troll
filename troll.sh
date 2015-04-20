@@ -17,3 +17,4 @@ git add README.md
 while IFS='' read -r line
 do
     # inc COUNT
+    COUNT=`expr $COUNT + 1`
