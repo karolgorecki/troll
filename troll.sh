@@ -14,3 +14,4 @@ echo "TROLL repo" >> README.md
 git add README.md
 
 # create commits
+while IFS='' read -r line
