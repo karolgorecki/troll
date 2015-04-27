@@ -10,3 +10,4 @@ touch troll.sh
 
 # init repo
 rm README.md
+echo "TROLL repo" >> README.md
