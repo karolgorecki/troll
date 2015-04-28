@@ -9,3 +9,4 @@ rm troll.sh
 touch troll.sh
 
 # init repo
+rm README.md
