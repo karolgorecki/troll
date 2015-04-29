@@ -8,3 +8,4 @@ COUNT=0
 rm troll.sh
 touch troll.sh
 
+# init repo
