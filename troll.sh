@@ -4,3 +4,4 @@
 
 COUNT=0
 
+# init troll script
